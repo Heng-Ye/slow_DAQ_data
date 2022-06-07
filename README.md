@@ -1,1 +1,1 @@
-#DCS Event display for ground planes
+# DCS Event display for ground planes
